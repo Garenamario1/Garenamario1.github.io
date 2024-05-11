@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color:#000000;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #808080;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header img {
+            width: 150px;
+            border-radius:50%;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #F5F5DC;
+            padding-bottom: 5px;
+        }
+        .section p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src=Fotocontoh.png
+            alt="CV">
+            <h1>Curriculum Vitae  </h1>
+            <p>BIODATA</p>
+        </div>
+        <div class="section">
+            <h2>INFORMATION </h2>
+            <p><strong>➜Tanggal lahir:</strong> Maret 19, 2004</p>
+            <p><strong>➜Address:</strong> Gondangrejo5773</p>
+            <p><strong>➜Email:</strong> Mariogazallo33@gmail.com</p>
+            <p><strong>➜phone:</strong> 089654481368</p>
+        </div>
+        <div class="section">
+            <h2>PENDIDIKAN</h2>
+            <p><strong>➜Jurusan:</strong> SISTEM INFORMASI(SI)</p>
+            <p><strong>➜Institution:</strong>Universitas AUB Surakarta</p>
+            <p><strong>➜Tahun masuk:</strong> 2022-2023</p>
+        </div>
+        <div class="section">
+            <h2>PENGALAMAN</h2>
+            <h3>•Sistem informasi•</h3>
+            <p><strong>➜ </strong> Web Developer</p>
+            <p><strong>➜ </strong> Statistika</p>
+            <p><strong>➜ </strong> Algoritma</p>
+            <p><strong>Description:</strong> Saya seorang mahasiswa semester (4) yang sedikit bisa mengetahui apa itu komputer berserta bahasanya.</p>
+        </div>
+        <div class="section">
+            <h2>SKILLS</h2>
+            <p><strong>√Programming Languages:</strong> HTML, CSS,JavaScript</p>
+            <p><strong>√Frameworks:</strong> photoshop,editing video</p>
+            <p><strong>√Databases:</strong> MySQL</p
+            
+        <footer class="text-center mt-5">
+            <p>© 2024 MyWebsite. All rights reserved.</p>
+        </footer>
+    </div>
+        </div>
+    </div>
+</body>
+</html>
